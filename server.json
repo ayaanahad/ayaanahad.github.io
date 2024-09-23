@@ -37,5 +37,11 @@
     "text": "সার্ভার - ২\n[টেলিটক সার্ভার]",
     "full": true,
     "url":"http://www.educationboardresults.gov.bd/"
+  },
+  {
+    "id":11,
+    "text":"home full and small",
+    "full":true,
+    "small":true
   }
 ]
