@@ -1,5 +1,5 @@
 [
-  { "id": 1, "text": "রেজাল্ট দেখুন", "full": true },
+  { "id": 1, "text": "HSC Result 2024", "full": true },
   { "id": 2, "text": "ফল পুনঃনিরীক্ষণ" },
   { "id": 3, "text": "বোর্ড বৃত্তি" },
   { "id": 4, "text": "ভার্সিটি ভর্তি" },
@@ -11,7 +11,7 @@
   {
     "id": 6,
     "categoryId": 1,
-    "text": "কেন্দ্রীয় সার্ভার",
+    "text": "Main Server",
     "full": true
   },
   {
@@ -22,24 +22,101 @@
   {
     "id": 8,
     "categoryId": 1,
-    "text": "SMS রেজাল্ট"
+    "text": "Result by SMS"
   },
   {
     "id": 9,
     "categoryId": 6,
-    "text": "সার্ভার - ১\n[ই-বোর্ড সার্ভার]",
+    "text": "Server - 1\n[e-Board Server]",
     "full": true,
     "url":"https://eboardresults.com/bn/ebr.app/home/"
   },
   {
     "id": 10,
     "categoryId": 6,
-    "text": "সার্ভার - ২\n[টেলিটক সার্ভার]",
+    "text": "Server - 2\n[Teletalk Server]",
     "full": true,
     "url":"http://www.educationboardresults.gov.bd/"
   },
   {
-    "id":11,
+    "id": 11,
+    "categoryId": 7,
+    "text": "Barishal Board",
+    "full": true,
+    "url":"https://result.barisalboard.gov.bd/"
+  },
+  {
+    "id": 12,
+    "categoryId": 7,
+    "text": "Chittagong Board",
+    "full": true,
+    "url":"https://hscresult.bise-ctg.gov.bd/hsc22/24/individual/"
+  },
+  {
+    "id": 13,
+    "categoryId": 7,
+    "text": "Comilla Board",
+    "full": true,
+    "url":"https://web.comillaboard.gov.bd/bisecb"
+  },
+  {
+    "id": 14,
+    "categoryId": 7,
+    "text": "Dhaka Board",
+    "full": true,
+    "url":"https://eboardresults.com/v2/home"
+  },
+  {
+    "id": 15,
+    "categoryId": 7,
+    "text": "Dinajpur Board",
+    "full": true,
+    "url":"http://result.dinajpurboard.gov.bd/hsc_result2024/"
+  },
+  {
+    "id": 16,
+    "categoryId": 7,
+    "text": "Jessore Board",
+    "full": true,
+    "url":"https://www.jessoreboard.gov.bd/resultjb/"
+  },
+  {
+    "id": 17,
+    "categoryId": 7,
+    "text": "Mymensingh Board",
+    "full": true,
+    "url":"https://www.mymensingheducationboard.gov.bd/results"
+  },
+  {
+    "id": 18,
+    "categoryId": 7,
+    "text": "Rajshahi Board",
+    "full": true,
+    "url":"http://www.rajshahieducationboard.gov.bd/"
+  },
+  {
+    "id": 19,
+    "categoryId": 7,
+    "text": "Sylhet Board",
+    "full": true,
+    "url":"https://sylhetboard.gov.bd/"
+  },
+  {
+    "id": 20,
+    "categoryId": 7,
+    "text": "Technical Board",
+    "full": true,
+    "url":"https://drive.google.com/drive/folders/1H7xDTw73QMm9LWKr9WmesUlGiU454cuM"
+  },
+  {
+    "id": 21,
+    "categoryId": 7,
+    "text": "Madrasah Board",
+    "full": true,
+    "url":"http://www.ebmeb.gov.bd/erps_entry_forms/disp_res.php?exam=alm&year=2024"
+  },
+  {
+    "id":22,
     "text":"home full and small",
     "full":true,
     "small":true
