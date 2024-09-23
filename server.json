@@ -17,7 +17,7 @@
   {
     "id": 7,
     "categoryId": 1,
-    "text": "বোর্ড সার্ভার (মার্কশিট সহ)"
+    "text": "Board Server (with Marksheet)"
   },
   {
     "id": 8,
@@ -43,6 +43,7 @@
     "categoryId": 7,
     "text": "Barishal Board",
     "full": true,
+    "small":true,
     "url":"https://result.barisalboard.gov.bd/"
   },
   {
@@ -50,6 +51,7 @@
     "categoryId": 7,
     "text": "Chittagong Board",
     "full": true,
+    "small":true,
     "url":"https://hscresult.bise-ctg.gov.bd/hsc22/24/individual/"
   },
   {
@@ -57,6 +59,7 @@
     "categoryId": 7,
     "text": "Comilla Board",
     "full": true,
+    "small":true,
     "url":"https://web.comillaboard.gov.bd/bisecb"
   },
   {
@@ -64,6 +67,7 @@
     "categoryId": 7,
     "text": "Dhaka Board",
     "full": true,
+    "small":true,
     "url":"https://eboardresults.com/v2/home"
   },
   {
@@ -71,6 +75,7 @@
     "categoryId": 7,
     "text": "Dinajpur Board",
     "full": true,
+    "small":true,
     "url":"http://result.dinajpurboard.gov.bd/hsc_result2024/"
   },
   {
@@ -78,6 +83,7 @@
     "categoryId": 7,
     "text": "Jessore Board",
     "full": true,
+    "small":true,
     "url":"https://www.jessoreboard.gov.bd/resultjb/"
   },
   {
@@ -85,6 +91,7 @@
     "categoryId": 7,
     "text": "Mymensingh Board",
     "full": true,
+    "small":true,
     "url":"https://www.mymensingheducationboard.gov.bd/results"
   },
   {
@@ -92,6 +99,7 @@
     "categoryId": 7,
     "text": "Rajshahi Board",
     "full": true,
+    "small":true,
     "url":"http://www.rajshahieducationboard.gov.bd/"
   },
   {
@@ -99,6 +107,7 @@
     "categoryId": 7,
     "text": "Sylhet Board",
     "full": true,
+    "small":true,
     "url":"https://sylhetboard.gov.bd/"
   },
   {
@@ -106,6 +115,7 @@
     "categoryId": 7,
     "text": "Technical Board",
     "full": true,
+    "small":true,
     "url":"https://drive.google.com/drive/folders/1H7xDTw73QMm9LWKr9WmesUlGiU454cuM"
   },
   {
@@ -113,6 +123,7 @@
     "categoryId": 7,
     "text": "Madrasah Board",
     "full": true,
+    "small":true,
     "url":"http://www.ebmeb.gov.bd/erps_entry_forms/disp_res.php?exam=alm&year=2024"
   },
   {
