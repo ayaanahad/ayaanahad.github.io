@@ -127,9 +127,24 @@
     "url":"http://www.ebmeb.gov.bd/erps_entry_forms/disp_res.php?exam=alm&year=2024"
   },
   {
-    "id":22,
-    "text":"home full and small",
-    "full":true,
-    "small":true
+    "id": 22,
+    "text": "NU Result",
+    "full": true,
+    "small":true,
+    "url":"http://results.nu.ac.bd/"
+  },
+  {
+    "id": 23,
+    "text": "BOU Result",
+    "full": true,
+    "small":true,
+    "url":"https://result.bou.ac.bd/"
+  },
+  {
+    "id": 24,
+    "text": "MBBS Result",
+    "full": true,
+    "small":true,
+    "url":"https://result.dghs.gov.bd/mbbs/"
   }
 ]
