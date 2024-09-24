@@ -1,5 +1,5 @@
 [
-  { "id": 1, "text": "HSC Result 2024", "full": true },
+  { "id": 1, "text": "HSC/Alim Result 2024", "full": true },
   { "id": 2, "text": "ফল পুনঃনিরীক্ষণ" },
   { "id": 3, "text": "বোর্ড বৃত্তি" },
   { "id": 4, "text": "ভার্সিটি ভর্তি" },
@@ -170,7 +170,7 @@
   },
   {
     "id": 28,
-    "text": "XI Class Admission Result",
+    "text": "BTEB Admission Result",
     "full": true,
     "small":true,
     "url":"http://bteb1.btebadmission.gov.bd:7080/resultview/index"
