@@ -146,5 +146,33 @@
     "full": true,
     "small":true,
     "url":"https://result.dghs.gov.bd/mbbs/"
+  },
+  {
+    "id": 25,
+    "text": "BCPS Result",
+    "full": true,
+    "small":true,
+    "url":"https://bcps.edu.bd/result/"
+  },
+  {
+    "id": 26,
+    "text": "NTRCA Result",
+    "full": true,
+    "small":true,
+    "url":"http://ntrca.teletalk.com.bd/result/"
+  },
+  {
+    "id": 27,
+    "text": "XI Class Admission Result",
+    "full": true,
+    "small":true,
+    "url":"https://xiclassadmission.gov.bd/"
+  },
+  {
+    "id": 28,
+    "text": "XI Class Admission Result",
+    "full": true,
+    "small":true,
+    "url":"http://bteb1.btebadmission.gov.bd:7080/resultview/index"
   }
 ]
