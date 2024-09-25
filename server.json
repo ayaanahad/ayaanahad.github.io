@@ -17,7 +17,7 @@
   {
     "id": 7,
     "categoryId": 1,
-    "text": "Board Server (with Marksheet)"
+    "text": "বোর্ড সার্ভার (মার্কশিট সহ)"
   },
   {
     "id": 8,
@@ -125,6 +125,20 @@
     "full": true,
     "small":true,
     "url":"http://www.ebmeb.gov.bd/erps_entry_forms/disp_res.php?exam=alm&year=2024"
+  },
+  {
+    "id": 29,
+    "categoryId": 10,
+    "text": "SSC/Dakhil/JSC/JDC Result",
+    "full": true,
+    "small":true
+  },
+  {
+    "id": 30,
+    "text": "PSC/EBT Result",
+    "full": true,
+    "small":true,
+    "url":"http://180.211.137.51/"
   },
   {
     "id": 22,
