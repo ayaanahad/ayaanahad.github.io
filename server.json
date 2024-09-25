@@ -2,8 +2,10 @@
   { "id": 1, "text": "HSC/Alim Result 2024", "full": true },
   { "id": 2, "text": "ফল পুনঃনিরীক্ষণ" },
   { "id": 3, "text": "বোর্ড বৃত্তি" },
-  { "id": 4,
-    "text": "Notice" 
+  {
+    "id": 4,
+    "text": "Notice",
+    "url": "https://dhakaeducationboard.portal.gov.bd/site/view/notices"
   },
   {
     "id": 5,
