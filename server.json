@@ -15,8 +15,71 @@
   },
   {
     "id": 5,
-    "text": "News",
-    "url": "https://www.newspapersland.com/headlines/aio-results-news/"
+    "text": "News"
+  },
+  {
+    "id": 35,
+    "categoryId": 5,
+    "text": "Dainik Shiksha",
+    "full": true,
+    "small":true,
+    "url":"https://www.dainikshiksha.com/"
+  },
+  {
+    "id": 36,
+    "categoryId": 5,
+    "text": "Dhaka Post",
+    "full": true,
+    "small":true,
+    "url":"https://www.dhakapost.com/education"
+  },
+  {
+    "id": 37,
+    "categoryId": 5,
+    "text": "JagoNews24",
+    "full": true,
+    "small":true,
+    "url":"https://www.jagonews24.com/education"
+  },
+  {
+    "id": 38,
+    "categoryId": 5,
+    "text": "Somoy News",
+    "full": true,
+    "small":true,
+    "url":"https://www.somoynews.tv/categories/শিক্ষা"
+  },
+  {
+    "id": 39,
+    "categoryId": 5,
+    "text": "Prothom Alo",
+    "full": true,
+    "small":true,
+    "url":"https://www.prothomalo.com/education"
+  },
+  {
+    "id": 40,
+    "categoryId": 5,
+    "text": "Bangla Tribune",
+    "full": true,
+    "small":true,
+    "url":"https://www.banglatribune.com/educations"
+  },
+  {
+    "id": 41,
+    "categoryId": 5,
+    "text": "Shiksha Barta",
+    "full": true,
+    "small":true,
+    "url":"https://shikshabarta.com/"
+  },
+  {
+    "id": 42,
+    "categoryId": 5,
+    "text": "BanglaNews24",
+    "full": true,
+    "small":true,
+    "url":"https://banglanews24.com/category/শিক্ষা/20"
   },
   {
     "id": 6,
