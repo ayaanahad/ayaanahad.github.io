@@ -154,6 +154,13 @@
     "url":"https://result.bou.ac.bd/"
   },
   {
+    "id": 32,
+    "text": "BTEB Board Result",
+    "full": true,
+    "small":true,
+    "url":"http://180.211.162.102:8444/result_arch/index.php"
+  },
+  {
     "id": 24,
     "text": "MBBS Result",
     "full": true,
@@ -166,6 +173,13 @@
     "full": true,
     "small":true,
     "url":"https://bcps.edu.bd/result/"
+  },
+  {
+    "id": 31,
+    "text": "BDS Result",
+    "full": true,
+    "small":true,
+    "url":"http://dgme.teletalk.com.bd/bds/options/result.php"
   },
   {
     "id": 26,
