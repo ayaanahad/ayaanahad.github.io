@@ -2,10 +2,12 @@
   { "id": 1, "text": "HSC/Alim Result 2024", "full": true },
   { "id": 2, "text": "ফল পুনঃনিরীক্ষণ" },
   { "id": 3, "text": "বোর্ড বৃত্তি" },
-  { "id": 4, "text": "ভার্সিটি ভর্তি" },
+  { "id": 4,
+    "text": "Notice" 
+  },
   {
     "id": 5,
-    "text": "অন্যান্য তথ্য",
+    "text": "News",
     "url": "https://www.google.com"
   },
   {
@@ -127,48 +129,62 @@
     "url":"http://www.ebmeb.gov.bd/erps_entry_forms/disp_res.php?exam=alm&year=2024"
   },
   {
-    "id": 29,
+    "id": 22,
     "text": "SSC/Dakhil/JSC/JDC Result",
     "full": true,
     "small":true
   },
   {
-    "id": 30,
+    "id": 23,
+    "categoryId": 22,
+    "text": "Server - 1\n[e-Board Server]",
+    "full": true,
+    "url":"https://eboardresults.com/bn/ebr.app/home/"
+  },
+  {
+    "id": 24,
+    "categoryId": 22,
+    "text": "Server - 2\n[Teletalk Server]",
+    "full": true,
+    "url":"http://www.educationboardresults.gov.bd/"
+  },
+  {
+    "id": 25,
     "text": "PSC/EBT Result",
     "full": true,
     "small":true,
     "url":"http://180.211.137.51/"
   },
   {
-    "id": 22,
+    "id": 26,
     "text": "NU Result",
     "full": true,
     "small":true,
     "url":"http://results.nu.ac.bd/"
   },
   {
-    "id": 23,
+    "id": 27,
     "text": "BOU Result",
     "full": true,
     "small":true,
     "url":"https://result.bou.ac.bd/"
   },
   {
-    "id": 32,
+    "id": 28,
     "text": "BTEB Board Result",
     "full": true,
     "small":true,
     "url":"http://180.211.162.102:8444/result_arch/index.php"
   },
   {
-    "id": 24,
+    "id": 29,
     "text": "MBBS Result",
     "full": true,
     "small":true,
     "url":"https://result.dghs.gov.bd/mbbs/"
   },
   {
-    "id": 25,
+    "id": 30,
     "text": "BCPS Result",
     "full": true,
     "small":true,
@@ -182,21 +198,21 @@
     "url":"http://dgme.teletalk.com.bd/bds/options/result.php"
   },
   {
-    "id": 26,
+    "id": 32,
     "text": "NTRCA Result",
     "full": true,
     "small":true,
     "url":"http://ntrca.teletalk.com.bd/result/"
   },
   {
-    "id": 27,
+    "id": 33,
     "text": "XI Class Admission Result",
     "full": true,
     "small":true,
     "url":"https://xiclassadmission.gov.bd/"
   },
   {
-    "id": 28,
+    "id": 34,
     "text": "BTEB Admission Result",
     "full": true,
     "small":true,
