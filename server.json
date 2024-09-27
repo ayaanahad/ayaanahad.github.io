@@ -117,7 +117,7 @@
     "text": "Barishal Board",
     "full": true,
     "small":true,
-    "url":"https://result.barisalboard.gov.bd/"
+    "url":"https://www.barisalboard.gov.bd/"
   },
   {
     "id": 12,
@@ -125,7 +125,7 @@
     "text": "Chittagong Board",
     "full": true,
     "small":true,
-    "url":"https://hscresult.bise-ctg.gov.bd/hsc22/24/individual/"
+    "url":"https://hscresult.bise-ctg.gov.bd/hsc22/23/individual/"
   },
   {
     "id": 13,
@@ -141,7 +141,7 @@
     "text": "Dhaka Board",
     "full": true,
     "small":true,
-    "url":"https://eboardresults.com/v2/home"
+    "url":"https://www.dhakaeducationboard.gov.bd/site/"
   },
   {
     "id": 15,
@@ -149,7 +149,7 @@
     "text": "Dinajpur Board",
     "full": true,
     "small":true,
-    "url":"http://result.dinajpurboard.gov.bd/hsc_result2024/"
+    "url":"http://result.dinajpurboard.gov.bd/hsc_result2023/"
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "text": "Jessore Board",
     "full": true,
     "small":true,
-    "url":"https://www.jessoreboard.gov.bd/resultjb/"
+    "url":"http://result.jessoreboard.gov.bd/"
   },
   {
     "id": 17,
@@ -165,7 +165,7 @@
     "text": "Mymensingh Board",
     "full": true,
     "small":true,
-    "url":"https://www.mymensingheducationboard.gov.bd/results"
+    "url":"https://www.mymensingheducationboard.gov.bd/"
   },
   {
     "id": 18,
@@ -173,7 +173,7 @@
     "text": "Rajshahi Board",
     "full": true,
     "small":true,
-    "url":"http://www.rajshahieducationboard.gov.bd/"
+    "url":"https://rajshahieducationboard.gov.bd/"
   },
   {
     "id": 19,
@@ -181,7 +181,7 @@
     "text": "Sylhet Board",
     "full": true,
     "small":true,
-    "url":"https://sylhetboard.gov.bd/"
+    "url":"https://www.sylhetboard.gov.bd/result/"
   },
   {
     "id": 20,
@@ -189,7 +189,7 @@
     "text": "Technical Board",
     "full": true,
     "small":true,
-    "url":"https://drive.google.com/drive/folders/1H7xDTw73QMm9LWKr9WmesUlGiU454cuM"
+    "url":"https://bteb.gov.bd/"
   },
   {
     "id": 21,
@@ -197,7 +197,7 @@
     "text": "Madrasah Board",
     "full": true,
     "small":true,
-    "url":"http://www.ebmeb.gov.bd/erps_entry_forms/disp_res.php?exam=alm&year=2024"
+    "url":"https://bmeb.ebmeb.gov.bd/"
   },
   {
     "id": 22,
