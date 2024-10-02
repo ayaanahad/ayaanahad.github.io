@@ -1,284 +1,125 @@
 [
   { "id": 1, "text": "HSC/Alim Result 2024", "full": true },
-  { "id": 2, 
-    "text": "ফল পুনঃনিরীক্ষণ",
-    "url": "https://app.aioresults.xyz/content/result-challenge.php"
-  },
-  { "id": 3,
+  { "id": 2,
     "text": "বোর্ড বৃত্তি",
     "url": "https://shed.gov.bd/site/view/scholarship/শিক্ষাবৃত্তি-বিজ্ঞপ্তি"
   },
   {
-    "id": 4,
+    "id": 3,
     "text": "Notice",
     "url": "https://dhakaeducationboard.portal.gov.bd/site/view/notices"
   },
   {
-    "id": 5,
-    "text": "News"
-  },
-  {
-    "id": 35,
-    "categoryId": 5,
-    "text": "Dainik Shiksha",
-    "full": true,
-    "small":true,
-    "url":"https://www.dainikshiksha.com/"
-  },
-  {
-    "id": 36,
-    "categoryId": 5,
-    "text": "Dhaka Post",
-    "full": true,
-    "small":true,
-    "url":"https://www.dhakapost.com/education"
-  },
-  {
-    "id": 37,
-    "categoryId": 5,
-    "text": "JagoNews24",
-    "full": true,
-    "small":true,
-    "url":"https://www.jagonews24.com/education"
-  },
-  {
-    "id": 38,
-    "categoryId": 5,
-    "text": "Somoy News",
-    "full": true,
-    "small":true,
-    "url":"https://www.somoynews.tv/categories/শিক্ষা"
-  },
-  {
-    "id": 39,
-    "categoryId": 5,
-    "text": "Prothom Alo",
-    "full": true,
-    "small":true,
-    "url":"https://www.prothomalo.com/education"
-  },
-  {
-    "id": 40,
-    "categoryId": 5,
-    "text": "Bangla Tribune",
-    "full": true,
-    "small":true,
-    "url":"https://www.banglatribune.com/educations"
-  },
-  {
-    "id": 41,
-    "categoryId": 5,
-    "text": "Shiksha Barta",
-    "full": true,
-    "small":true,
-    "url":"https://shikshabarta.com/"
-  },
-  {
-    "id": 42,
-    "categoryId": 5,
-    "text": "BanglaNews24",
-    "full": true,
-    "small":true,
-    "url":"https://banglanews24.com/category/শিক্ষা/20"
-  },
-  {
-    "id": 6,
+    "id": 4,
     "categoryId": 1,
-    "text": "Main Server",
+    "text": "Main Server (Online)",
     "full": true
   },
   {
-    "id": 8,
+    "id": 5,
     "categoryId": 1,
-    "text": "Result by SMS"
+    "text": "Result by SMS",
+    "full": true
+  },
+  {
+    "id": 6,
+    "categoryId": 4,
+    "text": "Server - 1\n[e-Board Server]",
+    "full": true,
+    "url":"https://eboardresults.com/bn/ebr.app/home/"
+  },
+  {
+    "id": 7,
+    "categoryId": 4,
+    "text": "Server - 2\n[Teletalk Server]",
+    "full": true,
+    "url":"http://www.educationboardresults.gov.bd/"
+  },
+  {
+    "id": 8,
+    "text": "SSC/Dakhil/JSC/JDC Result",
+    "full": true,
+    "small":true
   },
   {
     "id": 9,
-    "categoryId": 6,
+    "categoryId": 8,
     "text": "Server - 1\n[e-Board Server]",
     "full": true,
     "url":"https://eboardresults.com/bn/ebr.app/home/"
   },
   {
     "id": 10,
-    "categoryId": 6,
+    "categoryId": 8,
     "text": "Server - 2\n[Teletalk Server]",
     "full": true,
     "url":"http://www.educationboardresults.gov.bd/"
   },
   {
     "id": 11,
-    "categoryId": 7,
-    "text": "Barishal Board",
-    "full": true,
-    "small":true,
-    "url":"https://www.barisalboard.gov.bd/"
-  },
-  {
-    "id": 12,
-    "categoryId": 7,
-    "text": "Chittagong Board",
-    "full": true,
-    "small":true,
-    "url":"https://hscresult.bise-ctg.gov.bd/hsc22/23/individual/"
-  },
-  {
-    "id": 13,
-    "categoryId": 7,
-    "text": "Comilla Board",
-    "full": true,
-    "small":true,
-    "url":"https://web.comillaboard.gov.bd/bisecb"
-  },
-  {
-    "id": 14,
-    "categoryId": 7,
-    "text": "Dhaka Board",
-    "full": true,
-    "small":true,
-    "url":"https://www.dhakaeducationboard.gov.bd/site/"
-  },
-  {
-    "id": 15,
-    "categoryId": 7,
-    "text": "Dinajpur Board",
-    "full": true,
-    "small":true,
-    "url":"http://result.dinajpurboard.gov.bd/hsc_result2023/"
-  },
-  {
-    "id": 16,
-    "categoryId": 7,
-    "text": "Jessore Board",
-    "full": true,
-    "small":true,
-    "url":"http://result.jessoreboard.gov.bd/"
-  },
-  {
-    "id": 17,
-    "categoryId": 7,
-    "text": "Mymensingh Board",
-    "full": true,
-    "small":true,
-    "url":"https://www.mymensingheducationboard.gov.bd/"
-  },
-  {
-    "id": 18,
-    "categoryId": 7,
-    "text": "Rajshahi Board",
-    "full": true,
-    "small":true,
-    "url":"https://rajshahieducationboard.gov.bd/"
-  },
-  {
-    "id": 19,
-    "categoryId": 7,
-    "text": "Sylhet Board",
-    "full": true,
-    "small":true,
-    "url":"https://www.sylhetboard.gov.bd/result/"
-  },
-  {
-    "id": 20,
-    "categoryId": 7,
-    "text": "Technical Board",
-    "full": true,
-    "small":true,
-    "url":"https://bteb.gov.bd/"
-  },
-  {
-    "id": 21,
-    "categoryId": 7,
-    "text": "Madrasah Board",
-    "full": true,
-    "small":true,
-    "url":"https://bmeb.ebmeb.gov.bd/"
-  },
-  {
-    "id": 22,
-    "text": "SSC/Dakhil/JSC/JDC Result",
-    "full": true,
-    "small":true
-  },
-  {
-    "id": 23,
-    "categoryId": 22,
-    "text": "Server - 1\n[e-Board Server]",
-    "full": true,
-    "url":"https://eboardresults.com/bn/ebr.app/home/"
-  },
-  {
-    "id": 24,
-    "categoryId": 22,
-    "text": "Server - 2\n[Teletalk Server]",
-    "full": true,
-    "url":"http://www.educationboardresults.gov.bd/"
-  },
-  {
-    "id": 25,
     "text": "PSC/EBT Result",
     "full": true,
     "small":true,
     "url":"http://180.211.137.51/"
   },
   {
-    "id": 26,
+    "id": 12,
     "text": "NU Result",
     "full": true,
     "small":true,
     "url":"http://results.nu.ac.bd/"
   },
   {
-    "id": 27,
+    "id": 13,
     "text": "BOU Result",
     "full": true,
     "small":true,
     "url":"https://result.bou.ac.bd/"
   },
   {
-    "id": 28,
+    "id": 14,
     "text": "BTEB Board Result",
     "full": true,
     "small":true,
     "url":"http://180.211.162.102:8444/result_arch/index.php"
   },
   {
-    "id": 29,
+    "id": 15,
     "text": "MBBS Result",
     "full": true,
     "small":true,
     "url":"https://result.dghs.gov.bd/mbbs/"
   },
   {
-    "id": 30,
+    "id": 16,
     "text": "BCPS Result",
     "full": true,
     "small":true,
     "url":"https://bcps.edu.bd/result/"
   },
   {
-    "id": 31,
+    "id": 17,
     "text": "BDS Result",
     "full": true,
     "small":true,
     "url":"http://dgme.teletalk.com.bd/bds/options/result.php"
   },
   {
-    "id": 32,
+    "id": 18,
     "text": "NTRCA Result",
     "full": true,
     "small":true,
     "url":"http://ntrca.teletalk.com.bd/result/"
   },
   {
-    "id": 33,
+    "id": 19,
     "text": "XI Class Admission Result",
     "full": true,
     "small":true,
     "url":"https://xiclassadmission.gov.bd/"
   },
   {
-    "id": 34,
+    "id": 20,
     "text": "BTEB Admission Result",
     "full": true,
     "small":true,
