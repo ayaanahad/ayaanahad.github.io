@@ -1,14 +1,5 @@
 [
   { "id": 1, "text": "HSC/Alim Result 2024", "full": true },
-  { "id": 2,
-    "text": "বোর্ড বৃত্তি",
-    "url": "https://shed.gov.bd/site/view/scholarship/শিক্ষাবৃত্তি-বিজ্ঞপ্তি"
-  },
-  {
-    "id": 3,
-    "text": "Notice",
-    "url": "https://dhakaeducationboard.portal.gov.bd/site/view/notices"
-  },
   {
     "id": 4,
     "categoryId": 1,
