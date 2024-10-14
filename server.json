@@ -1,5 +1,5 @@
 [
-  { "id": 1, "text": "HSC/Alim Result 2024", "full": true },
+  { "id": 1, "text": "HSC Result 2024", "full": true },
   {
     "id": 4,
     "categoryId": 1,
@@ -17,18 +17,18 @@
     "categoryId": 4,
     "text": "Server - 1\n[e-Board Server]",
     "full": true,
-    "url":"https://eboardresults.com/bn/ebr.app/home/"
+    "url":"https://app.aioresults.xyz/content/how-to-server2.php"
   },
   {
     "id": 7,
     "categoryId": 4,
     "text": "Server - 2\n[Teletalk Server]",
     "full": true,
-    "url":"http://www.educationboardresults.gov.bd/"
+    "url":"https://app.aioresults.xyz/content/how-to.php"
   },
   {
     "id": 8,
-    "text": "SSC/Dakhil/JSC/JDC Result",
+    "text": "Alim Result 2024",
     "full": true,
     "small":true
   },
@@ -37,13 +37,13 @@
     "categoryId": 8,
     "text": "Server - 1\n[e-Board Server]",
     "full": true,
-    "url":"https://eboardresults.com/bn/ebr.app/home/"
+    "url":"https://app.aioresults.xyz/content/how-to-server2.php"
   },
   {
     "id": 10,
     "categoryId": 8,
     "text": "Server - 2\n[Teletalk Server]",
     "full": true,
-    "url":"http://www.educationboardresults.gov.bd/"
+    "url":"https://app.aioresults.xyz/content/how-to.php"
   }
 ]
