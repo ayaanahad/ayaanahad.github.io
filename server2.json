@@ -1,0 +1,49 @@
+[
+  { "id": 1, "text": "HSC Result 2024", "full": true },
+  {
+    "id": 4,
+    "categoryId": 1,
+    "text": "Main Server (Online)",
+    "full": true
+  },
+  {
+    "id": 5,
+    "categoryId": 1,
+    "text": "Result by SMS",
+    "full": true
+  },
+  {
+    "id": 6,
+    "categoryId": 4,
+    "text": "Server - 1\n[e-Board Server]",
+    "full": true,
+    "url":"https://app.aioresults.xyz/content/how-to-server2.php"
+  },
+  {
+    "id": 7,
+    "categoryId": 4,
+    "text": "Server - 2\n[Teletalk Server]",
+    "full": true,
+    "url":"https://app.aioresults.xyz/content/how-to.php"
+  },
+  {
+    "id": 8,
+    "text": "Alim Result 2024",
+    "full": true,
+    "small":true
+  },
+  {
+    "id": 9,
+    "categoryId": 8,
+    "text": "Server - 1\n[e-Board Server]",
+    "full": true,
+    "url":"https://app.aioresults.xyz/content/how-to-server2.php"
+  },
+  {
+    "id": 10,
+    "categoryId": 8,
+    "text": "Server - 2\n[Teletalk Server]",
+    "full": true,
+    "url":"https://app.aioresults.xyz/content/how-to.php"
+  }
+]
