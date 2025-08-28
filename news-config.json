@@ -1,7 +1,99 @@
 {
-  "categories": ["Bangla","English","International","Tech","Sports"],
+  "categories": [
+    "Bangla",
+    "English",
+    "International",
+    "Tech",
+    "Sports"
+  ],
   "newspapers": [
-    { "id": "1", "name":"Prothom Alo", "url":"https://www.prothomalo.com/", "category":"Bangla", "language":"bn", "icon":"https://logo.clearbit.com/prothomalo.com" },
-    { "id": "2", "name":"New Age",     "url":"https://www.newagebd.net/",   "category":"English", "language":"en", "icon":"https://logo.clearbit.com/newagebd.net" }
+    {
+      "id": "1",
+      "name": "Prothom Alo",
+      "url": "https://www.prothomalo.com/",
+      "category": "Bangla",
+      "language": "bn",
+      "icon": "https://logo.clearbit.com/prothomalo.com"
+    },
+    {
+      "id": "2",
+      "name": "New Age",
+      "url": "https://www.newagebd.net/",
+      "category": "English",
+      "language": "en",
+      "icon": "https://logo.clearbit.com/newagebd.net"
+    },
+    {
+      "id": "3",
+      "name": "Kaler Kantho",
+      "url": "https://www.kalerkantho.com/",
+      "category": "Bangla",
+      "language": "bn",
+      "icon": "https://logo.clearbit.com/kalerkantho.com"
+    },
+    {
+      "id": "4",
+      "name": "The Daily Star",
+      "url": "https://www.thedailystar.net/",
+      "category": "English",
+      "language": "en",
+      "icon": "https://logo.clearbit.com/thedailystar.net"
+    },
+    {
+      "id": "5",
+      "name": "Ittefaq",
+      "url": "https://www.ittefaq.com.bd/",
+      "category": "Bangla",
+      "language": "bn",
+      "icon": "https://logo.clearbit.com/ittefaq.com.bd"
+    },
+    {
+      "id": "6",
+      "name": "BBC News",
+      "url": "https://www.bbc.com/",
+      "category": "International",
+      "language": "en",
+      "icon": "https://logo.clearbit.com/bbc.com"
+    },
+    {
+      "id": "7",
+      "name": "CNN",
+      "url": "https://edition.cnn.com/",
+      "category": "International",
+      "language": "en",
+      "icon": "https://logo.clearbit.com/cnn.com"
+    },
+    {
+      "id": "8",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "category": "Tech",
+      "language": "en",
+      "icon": "https://logo.clearbit.com/techcrunch.com"
+    },
+    {
+      "id": "9",
+      "name": "The Verge",
+      "url": "https://www.theverge.com/",
+      "category": "Tech",
+      "language": "en",
+      "icon": "https://logo.clearbit.com/theverge.com"
+    },
+    {
+      "id": "10",
+      "name": "ESPN",
+      "url": "https://www.espn.com/",
+      "category": "Sports",
+      "language": "en",
+      "icon": "https://logo.clearbit.com/espn.com"
+    },
+    {
+      "id": "11",
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com/",
+      "category": "Sports",
+      "language": "en",
+      "icon": "https://logo.clearbit.com/skysports.com"
+    }
   ]
 }
