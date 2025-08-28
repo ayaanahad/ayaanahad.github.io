@@ -1,0 +1,8 @@
+{
+  "categories": ["Bangla", "English", "International", "Business", "Sports", "Tech", "Education"],
+  "newspapers": [
+    { "id": "prothom-alo", "name": "Prothom Alo", "url": "https://www.prothomalo.com/", "category": "Bangla", "language": "bn", "icon": "https://logo.clearbit.com/prothomalo.com" },
+    { "id": "new-age", "name": "New Age", "url": "https://www.newagebd.net/", "category": "English", "language": "en", "icon": "https://logo.clearbit.com/newagebd.net" },
+    { "id": "sky-sports", "name": "Sky Sports", "url": "https://www.skysports.com/", "category": "Sports", "language": "en", "icon": "https://logo.clearbit.com/skysports.com" }
+  ]
+}
