@@ -2,7 +2,7 @@
   "feeds": [
     { "key": "ittefaq",   "label": "ইত্তেফাক",          "url": "https://www.ittefaq.com.bd/feed/" },
     { "key": "bbc-bn",    "label": "BBC বাংলা",          "url": "https://feeds.bbci.co.uk/bengali/rss.xml" },
-    { "key": "bd-journal", "label": "বাংলাদেশ জার্নাল",  "url": "https://www.bd-journal.com/feed/latest-rss.xml" },
+    { "key": "bd-journal", "label": "বাংলাদেশ জার্নাল",  "url": "https://www.bd-journal.com/feed/latest-rss.xml" }
   ],
   "default": "all"
 }
