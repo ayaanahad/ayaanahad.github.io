@@ -1,15 +1,16 @@
 {
   "feeds": [
-    { "key": "ittefaq",       "label": "ইত্তেফাক",             "url": "https://www.ittefaq.com.bd/feed/" },
-    { "key": "bbc-bn",        "label": "BBC বাংলা",             "url": "https://feeds.bbci.co.uk/bengali/rss.xml" },
-    { "key": "bd-journal",    "label": "বাংলাদেশ জার্নাল",     "url": "https://www.bd-journal.com/feed/latest-rss.xml" },
-    { "key": "jagonews24",    "label": "জাগো নিউজ",            "url": "https://www.jagonews24.com/rss/rss.xml" },
-    { "key": "dhakatimes24",  "label": "ঢাকা টাইমস",            "url": "https://www.dhakatimes24.com/feed/latest-rss.xml" },
-    { "key": "dhakatribune",  "label": "ঢাকা ট্রিবিউন",         "url": "https://www.dhakatribune.com/feed/" },
-    { "key": "banglatribune", "label": "বাংলা ট্রিবিউন",        "url": "https://www.banglatribune.com/feed/" },
-    { "key": "dailystar",     "label": "দ্য ডেইলি স্টার",       "url": "https://www.thedailystar.net/frontpage/rss.xml" },
-    { "key": "kalerkantho",   "label": "কালের কণ্ঠ",            "url": "https://www.kalerkantho.com/rss.xml" },
-    { "key": "prothomalo",    "label": "প্রথম আলো",             "url": "https://www.prothomalo.com/feed/" }
+    { "key": "prothomalo",    "label": "প্রথম আলো",          "url": "https://www.prothomalo.com/feed/" },
+    { "key": "ittefaq",       "label": "ইত্তেফাক",           "url": "https://www.ittefaq.com.bd/feed/" },
+    { "key": "bbc-bn",        "label": "BBC বাংলা",          "url": "https://feeds.bbci.co.uk/bengali/rss.xml" },
+    { "key": "jagonews24",    "label": "জাগো নিউজ",         "url": "https://www.jagonews24.com/rss/rss.xml" },
+    { "key": "dhakatribune",  "label": "ঢাকা ট্রিবিউন",      "url": "https://www.dhakatribune.com/feed/" },
+    { "key": "banglatribune", "label": "বাংলা ট্রিবিউন",     "url": "https://www.banglatribune.com/feed/" },
+    { "key": "somoynews",     "label": "সময় নিউজ",          "url": "https://www.somoynews.tv/rss.xml" },
+    { "key": "risingbd",      "label": "রাইজিং বিডি",       "url": "https://www.risingbd.com/rss/rss.xml" },
+    { "key": "bd24live",      "label": "বিডি২৪লাইভ",        "url": "https://www.bd24live.com/bangla/feed/" },
+    { "key": "dailysun",      "label": "ডেইলি সান",         "url": "https://www.daily-sun.com/rss.xml" },
+    { "key": "news24bd",      "label": "নিউজ২৪",            "url": "https://www.news24bd.tv/rss.xml" }
   ],
   "default": "all"
 }
