@@ -6,8 +6,6 @@
     { "key": "jagonews24",    "label": "জাগো নিউজ",         "url": "https://www.jagonews24.com/rss/rss.xml" },
     { "key": "dhakatribune",  "label": "ঢাকা ট্রিবিউন",      "url": "https://www.dhakatribune.com/feed/" },
     { "key": "banglatribune", "label": "বাংলা ট্রিবিউন",     "url": "https://www.banglatribune.com/feed/" },
-    { "key": "somoynews",     "label": "সময় নিউজ",          "url": "https://www.somoynews.tv/rss.xml" },
-    { "key": "risingbd",      "label": "রাইজিং বিডি",       "url": "https://www.risingbd.com/rss/rss.xml" },
     { "key": "bd24live",      "label": "বিডি২৪লাইভ",        "url": "https://www.bd24live.com/bangla/feed/" },
     { "key": "dailysun",      "label": "ডেইলি সান",         "url": "https://www.daily-sun.com/rss.xml" },
     { "key": "news24bd",      "label": "নিউজ২৪",            "url": "https://www.news24bd.tv/rss.xml" }
